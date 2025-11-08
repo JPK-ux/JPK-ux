@@ -15,7 +15,7 @@
 I'm a *B.Tech Computer Science & Engineering* student at Assam Down Town University, passionate about building innovative solutions and exploring emerging technologies. My interests span across software development, artificial intelligence, machine learning, and cybersecurity.
 
 - 🔭 Currently exploring *AI/ML applications* and *secure software development*
-- 🌱 Learning advanced *algorithms, system design, and **cybersecurity practices*
+- 🌱 Learning advanced *algorithms, system design, and cybersecurity practices*
 - 💡 Interested in *open-source contributions* and *collaborative projects*
 - 📍 Based in *Guwahati, Assam, India*
 - 💬 Ask me about *software development, AI/ML, or tech in general*
@@ -57,11 +57,11 @@ I'm a *B.Tech Computer Science & Engineering* student at Assam Down Town Univers
 
 <div align="center">
   
-![Jyoti's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jyotiparnakashyap&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9)
+![Jyoti's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JPK-ux&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jyotiparnakashyap&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FFA657&currStreakLabel=C9D1D9)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JPK-ux&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FFA657&currStreakLabel=C9D1D9)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jyotiparnakashyap&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JPK-ux&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)
 
 </div>
 
@@ -81,9 +81,9 @@ When I'm not coding, you can find me:
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/jyoti-parna-kashyap-jpk/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jyoti-parna-kashyap-jpk/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jyotiparnakashyap@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jyotiparnakashyap)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JPK-ux)
 
 </div>
 
@@ -93,7 +93,7 @@ When I'm not coding, you can find me:
   
 ### 💭 "Continuous learning, continuous improvement"
 
-![Profile Views](https://komarev.com/ghpvc/?username=jyotiparnakayshap&color=58A6FF&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=JPK-ux&color=58A6FF&style=flat-square)
 
 </div>
 
@@ -103,7 +103,7 @@ When I'm not coding, you can find me:
 
 ## 🎨 Contribution Graph
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jyotiparnakashyap&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JPK-ux&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true)
 
 </div>
 
